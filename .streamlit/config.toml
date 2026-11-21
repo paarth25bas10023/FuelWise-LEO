@@ -1,3 +1,5 @@
+Ini, TOML
+[theme]
 base = "dark"
 primaryColor = "#00D4FF"
 backgroundColor = "#090D16"
