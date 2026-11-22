@@ -8,7 +8,7 @@
 * *Live Web Dashboard:* [Launch on Streamlit Cloud](https://fuelwise-leo-gnxqqsyugr3c769nfycdkt.streamlit.app/)
 * *Android App (.apk):* [Download FuelWiseLEO.apk from Releases](https://github.com/paarth25bas10023/FuelWise-LEO/releases/latest)
 * *Windows Desktop App (.exe):* Available in the [Latest Release Assets](https://github.com/paarth25bas10023/FuelWise-LEO/releases/latest) 
-
+* *Demonstration Video :* (https://drive.google.com/file/d/1ZoZ_dzO7jW09MsOww_bV2xXoHKGvEbJf/view?usp=drive_link)
 
 ## Key Features
 
